@@ -32,6 +32,10 @@ h1 {
   font-weight: 300;
 }
 
+.footer a {
+  color: #ffffff;
+}
+
 .piano {
   display: flex;
 }
@@ -44,12 +48,12 @@ h1 {
 
 .white {
   --width: 100px;
-  background-color: white;
+  background-color: #ffffff;
   border: 1px solid #f44335;
 }
 
 .white.active {
-  background-color: #ccc;
+  background-color: #cccccc;
 }
 
 .black {
@@ -61,5 +65,5 @@ h1 {
 }
 
 .black.active {
-  background-color: #333;
+  background-color: #333333;
 }
