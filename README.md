@@ -12,6 +12,6 @@
 [![forthebadge](https://forthebadge.com/images/badges/gluten-free.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
 
-Demo: [Link](https://my-piano.netlify.com)
+Demo: [Link](https://ashwinshenoy.com/piano)
 
 Github: [Link](https://github.com/ashwinkshenoy/piano)
